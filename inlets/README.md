@@ -154,3 +154,4 @@ TODO:
 - [ ] consider Dockerfile for inlets + code-server
   - this wouldn't be the host's computer and they would have to maintain a seperate dockerized dev environment
 - [ ] consider mentioning CloudFlare Argo
+- [ ] add next steps (running code-server remotely on cloud server or RPI. auth options, etc)
