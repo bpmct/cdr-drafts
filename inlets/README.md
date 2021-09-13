@@ -175,7 +175,7 @@ If you want to access your dev environment over VS Code Remote SSH, you'll need 
 
 It's clear there are a lot of options when it comes to developing in the cloud. Wherever you are developing (local machine, managed service, or private datacenter), developers can have smooth workflows without compromises.
 
-I'm particularly interested in we can enable these workflows while also reducing the setup/friction associated with developing on remote servers such as provisioning, managing access keys, or setting up tunnels. Here are a few things we're exploring:
+I'm particularly interested in we can enable these workflows while also reducing the setup/friction associated with developing on remote servers such as provisioning, managing access keys, or connecting to running services. Here are a few things we're exploring:
 
 - a single tunnel to a server for SSH and multiple IDEs (hint. JetBrains)
 - extension for tunneling ports inside code-server
